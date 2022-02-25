@@ -1,6 +1,6 @@
 import { StatusBar } from "expo-status-bar";
-import MyStack from "./src/navigation/MyStack";
 import { StyleSheet, Text, View } from "react-native";
+import MyStack from "./src/navigation/MyStack";
 
 export default function App() {
   return (
